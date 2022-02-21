@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(46, 185, 185);
+  text-align: center;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+a {
+  padding: 20px 20px;
+  color: blueviolet;
+}
+
+img {
+  margin: 0 auto;
+  padding: 20px 20px;
+}
